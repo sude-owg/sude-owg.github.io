@@ -6,5 +6,6 @@ Da die Knittax einige Jahre intensiv genutzt wurde hat sich natürlich Staub ang
 Hier nochmal eine Zusammenfassung vom Reinigen, da mir ein paar Dinge aufgefallen sind, auf die man achten muss: [Strickmaschinen-Wartung](Strickmaschinen-Wartung.html)
 
 ### Bedienungsanleitung
+[Bedieungsanleitung](pdfs/Knittax_M2.pdf)
 
 ### Anleitungen
