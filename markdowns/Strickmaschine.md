@@ -9,3 +9,18 @@ Hier nochmal eine Zusammenfassung vom Reinigen, da mir ein paar Dinge aufgefalle
 [Bedieungsanleitung](pdfs/Knittax_M2.pdf)
 
 ### Anleitungen
+- [Häkelanschlag](https://www.youtube.com/watch?v=6Q832j-BfLE)
+- [Wickelanschlag](https://www.youtube.com/watch?v=q1VQyK89KBg)
+- [Patenstrickaufsatz](https://www.youtube.com/watch?v=rG3fCkfgbps)
+- [Zweifarbenmuster](https://www.youtube.com/watch?v=5tF-qY9Eb3s)
+- [Socken](https://www.youtube.com/watch?v=r20R5zqhtgo)
+- [Patent, glatte Ränder](https://www.youtube.com/watch?v=3PdKRFqjKlU)
+- [Strickschlauch](https://www.youtube.com/watch?v=MiNCWXfmLOY)
+- [Hohlsaum](https://www.youtube.com/watch?v=naKIMYQo-Nk)
+- [Intarsien](https://www.youtube.com/watch?v=0MslHwRd4RU)
+- [Wechselvorrichtung](https://www.youtube.com/watch?v=ujq9GCgcfW0)
+- [Webstricken](https://www.youtube.com/watch?v=OJOljE-RS-M)
+- [Muster](https://www.youtube.com/watch?v=rkEfQXf90bE)
+- [Knopflöcher](https://www.youtube.com/watch?v=WWpo1uO_n_w)
+
+
