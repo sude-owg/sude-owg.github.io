@@ -1,32 +1,78 @@
 # Stickmaschine
 ## Einfädeln
-![pictures/stickmaschine/1.png](pictures/stickmaschine/1.png)
+  <img src="pictures/stickmaschine/1.png" width="200">   
+  
 - vordere Fäden durch vorderes oberes Rack, mittlere Reihe durch mittlere, hintere durch hintere 
-- von der Spule zum Rack und durch das Loch nach vorne  ![pictures/stickmaschine/2.png](pictures/stickmaschine/2.png)
-- von unten nach oben durch das Loch hinter der oberen Fadenspannungsspule
-- auf der rechten Seite an der Fadenspannungsspule vorbei führen; dabei darauf achten, dass der Faden zwischen die beiden Plättchen führt; innerhalb des Stiftes ![pictures/stickmaschine/2.png](pictures/stickmaschine/2.png)
+- von der Spule zum Rack und durch das Loch nach vorne  
+
+  <img src="pictures/stickmaschine/2.png" width="200">  
+  
+- auf der rechten Seite an der Fadenspannungsspule vorbei führen; dabei darauf achten, dass der Faden zwischen die beiden Plättchen führt; innerhalb des Stiftes  
+
+
+  <img src="pictures/stickmaschine/4.png" width="200">  
+  
 - Plastikschlauch entfernen
-- mit einer Hilfsnadel den Faden durch den Schlauch führen ![pictures/stickmaschine/3.png](pictures/stickmaschine/3.png)
-- Schlauch wieder befestigen ![pictures/stickmaschine/4.png](pictures/stickmaschine/4.png)
-- Faden durch den mittleren Clip führen
-- durch die untere Fadenspannungsspule führen (analog wie bei der oberen)
+- mit einer Hilfsnadel den Faden durch den Schlauch führen   
+
+  <img src="pictures/stickmaschine/5.png" width="200">  
+  <img src="pictures/stickmaschine/6.png" width="200">  
+  
+- Schlauch wieder befestigen  
+
+  <img src="pictures/stickmaschine/7.png" width="200">  
+  
+- Faden durch den mittleren Clip führen  
+
+  <img src="pictures/stickmaschine/9.png" width="200">  
+  
+- durch die untere Fadenspannungsspule führen (analog wie bei der oberen)  
+
+  <img src="pictures/stickmaschine/10.png" width="200">  
+ 
 - Fadenspule über der Nadel mit der richtigen Nummer wählen
 - von links nach rechts am oberen Stift vorbeiführen
-- im Uhrzeigersinn eineinhalb mal um die Spule führen
+- im Uhrzeigersinn eineinhalb mal um die Spule führen  
+
+  <img src="pictures/stickmaschine/11.png" width="200">  
+  
 - links am unteren Stift vorbeiführen
 - durch den Clip führen
-- rechts am Hebelarm vorbeiführen (Faden soll hinter der Abdeckung sein)
+- rechts am Hebelarm vorbeiführen
 - Federarm nach unten klappen
-- von rechts oben nach unten an der rechten Rolle vorbeiführen
-- von rechts nach links durch die Feder am Federarm führen
+- von rechts oben nach unten an der rechten Rolle vorbeiführen  
+
+  <img src="pictures/stickmaschine/12.png" width="200">
+  
+- von rechts nach links durch die Feder am Federarm führen  
+
+  <img src="pictures/stickmaschine/12a.png" width="200">
+  
 - von unten nach links oben an den linken Rolle vorbeiführen
-- nach oben durch den Spalt der Abdeckung führen
-- von rechts nach links durch das Loch im Hebelarm führen
+- von rechts nach links durch das Loch im Hebelarm führen  
+
+  <img src="pictures/stickmaschine/13.png" width="200">
+    
 - nach unten und durch das Loch links neben den Rollen führen
-- durch das Loch über der Nadel führen
-- Faden von vorne nach hinten durch das Nadelöhr
-- von oben nach untern durch den Nadelfuß
-- Ruheposition: in Feder klemmen
+
+  <img src="pictures/stickmaschine/14.png" width="200">
+ 
+- durch das Loch über der Nadel führen  
+
+  <img src="pictures/stickmaschine/15.png" width="200">  
+  
+- Faden von vorne nach hinten durch das Nadelöhr  
+
+  <img src="pictures/stickmaschine/16.png" width="200">  
+  
+- von oben nach untern durch den Nadelfuß 
+
+  <img src="pictures/stickmaschine/17.png" width="200">  
+
+- Ruheposition: in Feder klemmen  
+
+  <img src="pictures/stickmaschine/18.png" width="200">  
+  
 - 4-5cm hängen lassen
 - Federarm um 90° zurück nach oben klappen
 
@@ -87,7 +133,7 @@
 - Stickrahmen einrasten lassen
 
 ## Control Panel
-![pictures/stickmaschine/panel.png](pictures/stickmaschine/panel.png)  
+  <img src="pictures/stickmaschine/panel.png" width="600">  
 
 - Stickdesign abfahren: sicherstellen, dass die Nadel nicht anstößt
 	- Achtung: oben und rechts etwas mehr Platz einplanen, da der Nadelarm nach oben und rechtsgebogen ist und an den Rhamen anstoßen kann
@@ -97,7 +143,7 @@
 - wenn Faden reißt kann man mit Start wieder dort anfangen, wo man aufgehört hat
 - abbrechen mit Urpsungsknopf
 
-![pictures/stickmaschine/panel2.png](pictures/stickmaschine/panel2.png)
+  <img src="pictures/stickmaschine/panel2.png" width="400">  
   
 ### Farbabfolgen
 - an den Ausdruck (pdf, Run sheet) der Sticksoftware orientieren
@@ -129,7 +175,7 @@
 - Maschinen-Speicher anklicken (blau)
 - Datei auswählen (das unterste)
 
-![pictures/stickmaschine/panel3.png](pictures/stickmaschine/panel3.png)
+  <img src="pictures/stickmaschine/panel3.png](pictures/stickmaschine/panel3.png)
 
 ## Unterfaden aus
 - es wird ein "Thread break" angezeigt
